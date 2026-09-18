@@ -1,4 +1,4 @@
-export const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:5000';
+export const API_BASE = import.meta.env.VITE_API_BASE || 'https://si-ke-po-backend-dkfe-31rhkxj8d-rendy-kamaluddins-projects.vercel.app';
 
 const TOKEN_KEY = 'sikepo_token';
 const USER_KEY = 'sikepo_user';
