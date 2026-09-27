@@ -1,4 +1,4 @@
-export const API_BASE = (import.meta.env.VITE_API_BASE || 'sikepo-be.odeandialamsyah.my.id').replace(/\/+$/, '');
+export const API_BASE = (import.meta.env.VITE_API_BASE || 'https://sikepo-be.odeandialamsyah.my.id').replace(/\/+$/, '');
 
 const TOKEN_KEY = 'sikepo_token';
 const USER_KEY = 'sikepo_user';
